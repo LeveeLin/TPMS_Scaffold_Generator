@@ -43,5 +43,11 @@ Deployment Product Terms in the MathWorks Documentation
 Center.
 
 
+4. Function of the TPMS_Scaffold_Generator
+
+It offers three function tabs which are homogeneous tab, heterogeneous tab and multisymmetrical tab, respectively. Variables of the tabs include topology type, volume fraction, unit cell size, the length of architecture in X, Y, Z direction, accuracy, and the style of gradient and so forth. In addition, the tabs are able to determine whether to generate shell-based scaffold or skeleton-based scaffold. Therefore, TPMS_Scaffold_Generator can generate various TPMS scaffolds, especially ultralight and multisymmetrical scaffolds.
 
 
+5. Process of installation
+First setep: Run the MyAppInstaller_web.exe till the installation succeeds.
+Second setep: Operate the TPMS_Scaffold_web.exe.
